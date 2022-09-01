@@ -4,4 +4,4 @@ NPM     : 2106750521
 
 Kelas   : C
 
-Hobi    : Haha Hihi
+Hobi    : Ketawa
